@@ -20,11 +20,12 @@
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
 </dependency>
+</dependencies>
 <properties>
  <maven.compiler.source>1.8</maven.compiler.source>
  <maven.compiler.target>1.8</maven.compiler.target>
- <sonar.host.url>http://3.109.214.224:9000/</sonar.host.url> 
-</dependencies>
+ <sonar.host.url>http://3.109.214.224:9000/</sonar.host.url>
+</properties>
 <distributionManagement>
   <repository>
     <id>releases</id>
