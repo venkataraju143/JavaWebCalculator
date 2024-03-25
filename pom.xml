@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
     <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
-<build>
+ <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -24,7 +24,7 @@
       </plugin>
       <!--  https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
     </plugins>
-  </build>    
+ </build>    
 <dependency>
     <groupId>javax.servlet</groupId>
     <artifactId>servlet-api</artifactId>
